@@ -1,0 +1,1 @@
+I changed the name of the font from "kirbys-adventure-nes-variant-1" to "vcr" because apparentally thats how to make the custom font work.
